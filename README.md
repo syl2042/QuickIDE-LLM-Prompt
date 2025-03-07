@@ -213,6 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 
-Made with ❤️ by <a href="https://auroramind.fr">Auroramind</a> for developers working with AI coding assistants
+Made with ❤️ by [Auroramind](https://auroramind.fr) for developers working with AI coding assistants
 Happy prompting! 🚀
 
