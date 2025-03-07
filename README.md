@@ -16,7 +16,7 @@
 
 ## 🚀 Overview
 
-**QuickIDE-LLM-Prompt** is a lightweight PowerShell tool that helps developers quickly access and use optimized prompts when working with AI coding assistants in their IDE. It solves the common problem of having to remember or retype complex prompts by providing a simple selection interface that copies the chosen prompt to your clipboard.
+**QuickIDE-LLM-Prompt** is a lightweight PowerShell tool that helps developers quickly access and use optimized prompts when working with AI coding assistants in their IDE. It's ridiculously simple, yet incredibly effective :). It solves the common problem of having to remember or retype complex prompts by providing a simple selection interface that copies the chosen prompt to your clipboard.
 
 ### 🤔 Why QuickIDE-LLM-Prompt?
 
