@@ -41,6 +41,21 @@
 </tr>
 </table>
 
+### 🔍 Addressing Common LLM Limitations
+
+One of the biggest challenges when working with AI coding assistants in IDEs (VS Code, JetBrains, Windsurf, Cursor, Copilot, ChatGPT, Cline, Claude, etc.) is that they frequently forget instructions specified in their initial system prompts. For example:
+
+- The LLM might forget your project's architecture after a few exchanges
+- It may not consistently follow coding standards you specified earlier
+- It could lose track of important context about your application's purpose
+
+QuickIDE-LLM-Prompt solves this problem by making it effortless to reintroduce critical context whenever needed. By creating prompts that include architecture details, coding standards, and other important context, and having them instantly available, you can:
+
+- Be more precise in your instructions
+- Avoid common pitfalls of development-focused LLMs that forget rules
+- Work much faster without constantly retyping the same context
+- Maintain consistency across your entire development process
+
 ## 📋 Features
 
 <div style="display: flex; justify-content: space-between;">
