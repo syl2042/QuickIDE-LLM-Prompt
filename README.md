@@ -16,7 +16,7 @@
 
 ## 🚀 Overview
 
-**QuickIDE-LLM-Prompt** is a lightweight PowerShell tool that helps developers quickly access and use optimized prompts when working with AI coding assistants in their IDE. It's ridiculously simple, but highly effective. It solves the common problem of having to remember or retype complex prompts by providing a simple selection interface that copies the chosen prompt to your clipboard.
+**QuickIDE-LLM-Prompt** is a lightweight PowerShell tool that helps developers quickly access and use optimized prompts when working with AI coding assistants in their IDE. It solves the common problem of having to remember or retype complex prompts by providing a simple selection interface that copies the chosen prompt to your clipboard.
 
 ### 🤔 Why QuickIDE-LLM-Prompt?
 
@@ -146,7 +146,7 @@ Want to launch the prompt selector with a keyboard shortcut? Here's how:
    }
    ```
 
-3. Now just hit `Ctrl+Alt+P` to launch the prompt selector directly from VS Code. Magic! ✨
+3. Now just hit `Ctrl+Alt+P` to launch the prompt selector directly from VS Code. Magic! 
 
 ## 📝 Usage
 
@@ -176,14 +176,12 @@ Got prompts stored somewhere else? No problem:
 The prompts are stored in the `PROMPTS.md` file using a simple format:
 
 ```markdown
-## 1. 🚀 Category Name
+## 1. Category Name
 
 ### Prompt Title
 
-```prompt
 Your prompt content goes here.
 Replace [PLACEHOLDERS] with specific information when using the prompt.
-```
 ```
 
 To add your own prompts:
@@ -212,9 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-
 <div align="center">
-  <p>Made with ❤️ by <strong><a href="https://auroramind.fr">Auroramind</a></strong> for developers working with AI coding assistants</p>
-  <p>Happy prompting! 🚀</p>
+  <p>Made with ❤️ by <a href="https://auroramind.fr">Auroramind</a> for developers working with AI coding assistants</p>
+  <p>Happy prompting! </p>
 </div>
-
