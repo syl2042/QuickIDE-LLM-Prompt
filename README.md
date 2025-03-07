@@ -1,7 +1,14 @@
+<div align="center">
+  <img src="docs/images/logo_auroramind2.png" alt="Auroramind Logo" width="200"/>
+</div>
+
+<div align="center">
+  <p><strong>Auroramind</strong> is a French technology company specializing in the development and integration of AI solutions for businesses. With four years of expertise in artificial intelligence systems, we help organizations leverage cutting-edge technology to transform their operations and create value.</p>
+</div>
+
 # <div align="center">✨ QuickIDE-LLM-Prompt ✨</div>
 
 <div align="center">
-  <img src="docs/images/logo_auroramind2.png" alt="QuickIDE-LLM-Prompt Logo" width="200"/>
   <p><em>Quick access to optimized prompts for LLM-powered coding assistants in your IDE</em></p>
 </div>
 
@@ -57,6 +64,16 @@
 </div>
 </div>
 
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="docs/images/interface.jpg" alt="Main Menu" width="600"/>
+  <p><em>Main selection menu</em></p>
+  
+  <img src="docs/images/chat.jpg" alt="Prompt in Chat" width="600"/>
+  <p><em>Prompt pasted into the LLM chat interface</em></p>
+</div>
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -68,7 +85,7 @@
 
 1. Clone this repository or download the files:
    ```powershell
-   git clone https://github.com/yourusername/QuickIDE-LLM-Prompt.git
+   git clone https://github.com/syl2042/QuickIDE-LLM-Prompt.git
    ```
 
 2. Place the files in a convenient location on your system.
@@ -176,16 +193,6 @@ To add your own prompts:
 3. Save the file.
 4. Your new prompts will appear the next time you run the script.
 
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="docs/images/interface.jpg" alt="Main Menu" width="600"/>
-  <p><em>Main selection menu</em></p>
-  
-  <img src="docs/images/chat.jpg" alt="Prompt in Chat" width="600"/>
-  <p><em>Prompt pasted into the LLM chat interface</em></p>
-</div>
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have prompts that work well for specific coding tasks, please consider sharing them:
@@ -206,6 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ for developers working with AI coding assistants</p>
+  <p>Made with ❤️ by <a href="https://auroramind.fr">Auroramind</a> for developers working with AI coding assistants</p>
   <p>Happy prompting! 🚀</p>
 </div>
